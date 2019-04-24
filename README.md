@@ -1,6 +1,7 @@
 # MyStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+YouTube training session is [here](https://www.youtube.com/watch?v=owZVKNg6cG4&app=desktop&ab_channel=Devoxx)
 
 ## Development server
 
